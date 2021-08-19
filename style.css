@@ -158,4 +158,7 @@ i {
     .contact-list {
         flex-direction: column;
     }
+    .heading {
+        font-size: 20px
+    }
 }
