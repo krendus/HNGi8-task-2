@@ -150,7 +150,7 @@ i {
 
 @media screen and (max-width: 900px){
     .welcome {
-        height: 60vh;
+        height: 50vh;
     }
     .welcome .image {
         display: none;
@@ -160,5 +160,11 @@ i {
     }
     .heading {
         font-size: 20px
+    }
+    .content {
+    font-size: 16px
+    }
+    .job, .hobby {
+        font-size: 14px
     }
 }
