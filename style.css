@@ -218,4 +218,7 @@ i {
     .contact-list {
         flex-direction: column;
     }
+    .cont-list {
+        justify-content: center
+    }
 }
